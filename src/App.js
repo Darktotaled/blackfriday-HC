@@ -1,10 +1,8 @@
-
+import Home from '../src/views/Home'
 
 function App() {
   return (
-    <div className="App">
-      Helloe boio
-    </div>
+    <Home />
   );
 }
 
